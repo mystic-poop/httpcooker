@@ -1,9 +1,7 @@
-import requests
 import os
 import socket
 import random
 from urllib.parse import urlparse
-
 print("""
 **********************
 *     X_X            *
