@@ -1,11 +1,11 @@
 # HTTPCooker  
 A DDoS (Distributed Denial-of-Service) tool for **educational purposes only**.  
-
+<p>target server goes brrrrrrrrrrrrrrr....</p>
 ## Features  
 - ⭐ Can send **1000 requests per second**  
 - ⭐ Supports **all ports (1-65535)**  
 - ⭐ Compatible with **any OS that supports Python 3**  
-
+- ⭐ It can **MULTITHREAD**
 ## Installation  
 ```bash
 git clone github.com/mystic-poop/httpcooker/
