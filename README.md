@@ -21,5 +21,5 @@ python3 ddos.py
 # ⚠️Disclamer
 This tool is intended solely for educational and ethical testing purposes. Unauthorized use for attacking networks/systems without explicit permission is illegal. The developers assume no responsibility for misuse of this software.
 
-#Donation Links
+# Donation Links
 **Patreon: https://www.patreon.com/c/mysticpoop/**
