@@ -6,6 +6,7 @@ A DDoS (Distributed Denial-of-Service) tool for **educational purposes only**.
 - ⭐ Supports **all ports (1-65535)**  
 - ⭐ Compatible with **any OS that supports Python 3**  
 - ⭐ It can **MULTITHREAD**
+- ⭐ .exe for rookie windows users (In beta)
 ## Installation  
 ```bash
 git clone github.com/mystic-poop/httpcooker/
