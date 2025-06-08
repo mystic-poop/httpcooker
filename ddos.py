@@ -11,10 +11,10 @@ print("""
     **********************
     *     X_X            *
     * Made by Mystic-poop*
-    *         Or         *
-    *       Xenz         *
     *                    *
-    ***********************
+    *                    *
+    *                    *
+    **********************
     """)
 url = input("Write your enemy URL (with http:// or https://): ")
 parsed_url = urlparse(url)
